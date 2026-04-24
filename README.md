@@ -37,3 +37,24 @@ The project also includes a backend server using Express.js to serve the fronten
 
 ## How to Run
 1. Install dependencies:
+2. Run server:
+3. Open in browser:
+---
+
+## Working
+User can enter event details like name, date and time.  
+After clicking add button, event is shown in the list.  
+Events can also be removed using delete button.
+
+---
+
+## Future Improvements
+- Add database to store events permanently  
+- Add edit event feature  
+- Improve UI design further  
+- Add login system  
+
+---
+
+## Developer
+Supriya Yadav
